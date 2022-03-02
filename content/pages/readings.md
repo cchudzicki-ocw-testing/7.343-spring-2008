@@ -7,7 +7,7 @@ title: Readings
 uid: bf169a23-7d5b-cf85-b3dc-827b87e869a5
 ---
 
-For each reading listed below, each student will be expected to be able to provide explanations to a set of questions handed out at the start of the course ({{< resource_link 39fd5d70-3249-92fe-f577-5b5ba28dcf54 "PDF" >}})
+For each reading listed below, each student will be expected to be able to provide explanations to a set of questions handed out at the start of the course ({{% resource_link 39fd5d70-3249-92fe-f577-5b5ba28dcf54 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
